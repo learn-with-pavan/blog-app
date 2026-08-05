@@ -18,5 +18,14 @@
     "express": "^4.21.2",
     "mongoose": "^8.9.1",
     "morgan": "^1.10.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-with-pavan/blog-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/learn-with-pavan/blog-app/issues"
+  },
+  "homepage": "https://github.com/learn-with-pavan/blog-app#readme"
 }
